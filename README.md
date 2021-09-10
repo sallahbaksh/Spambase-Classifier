@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Implemented two machine learning models (Logistic Regression and Decision Tree) to classify data into spam or not spam from the Spambase Dataset.
+Implemented three machine learning models (Logistic Regression, Naive Bayes, and Decision Tree) to classify data into spam or not spam from the Spambase Dataset.
 
 ## Getting Started
 
@@ -15,6 +15,7 @@ The following dependencies are required:<br/>
 * sklearn
     * model_selection
 * scipy
+    * stats
 
 If using Anaconda with Python 3.8+, everything above is included. Else, individually install these libraries using `pip install`.
 
